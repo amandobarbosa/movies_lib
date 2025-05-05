@@ -8,7 +8,7 @@ This project was built using **React** and **TMDB API**.
 
 You can check out the live version of the app here:
 
-[Movie App - Live Demo](https://movies-lib-gules.vercel.app/)
+[Movie App - Live Demo](https://movies-lib-amandos-projects-5d59b8c8.vercel.app/)
 
 ## 🎬 Features
 
